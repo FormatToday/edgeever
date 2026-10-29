@@ -2041,7 +2041,6 @@ export const enUS = {
     openFolder: "Open folder",
     never: "Not yet",
     lastSuccess: "Last successful backup: {{time}}",
-    lastBackupSize: "Latest backup size: {{size}}",
     nextDue: "Next automatic check: {{time}}",
     whenReady: "When the app is ready",
     stagingWarning: "Private temporary files could not be removed. Check the app data folder permissions and restart.",
@@ -2187,10 +2186,6 @@ export const enUS = {
     confirmImport: "Import",
   },
   shortcuts: {
-    globalSectionTitle: "Global shortcuts",
-    globalSectionTip: "Works from other apps; saved only on this device",
-    appSectionTitle: "Shortcuts",
-    appSectionTip: "Active when the window is in focus",
     global: {
       label: "Show or hide desktop window",
       description: "Works from other apps. This shortcut is saved only on this device.",

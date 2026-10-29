@@ -2030,7 +2030,6 @@ export const pl = {
     openFolder: "Otwórz folder",
     never: "Jeszcze nie",
     lastSuccess: "Ostatnia udana kopia: {{time}}",
-    lastBackupSize: "Rozmiar ostatniej kopii: {{size}}",
     nextDue: "Następne automatyczne sprawdzenie: {{time}}",
     whenReady: "Gdy aplikacja będzie gotowa",
     stagingWarning: "Nie usunięto prywatnych plików tymczasowych. Sprawdź uprawnienia folderu danych i uruchom aplikację ponownie.",
@@ -2176,10 +2175,6 @@ export const pl = {
     confirmImport: "Importuj",
   },
   shortcuts: {
-    globalSectionTitle: "Skróty globalne",
-    globalSectionTip: "Działają w innych aplikacjach; zapisane tylko na tym urządzeniu",
-    appSectionTitle: "Skróty",
-    appSectionTip: "Aktywne, gdy okno jest aktywne",
     global: {
       label: "Pokaż lub ukryj okno aplikacji",
       description: "Działa także w innych aplikacjach. Skrót jest zapisany tylko na tym urządzeniu.",

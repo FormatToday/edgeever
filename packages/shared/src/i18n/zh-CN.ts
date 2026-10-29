@@ -2041,7 +2041,6 @@ export const zhCN = {
     openFolder: "打开文件夹",
     never: "尚未完成",
     lastSuccess: "上次成功备份：{{time}}",
-    lastBackupSize: "最近备份大小：{{size}}",
     nextDue: "下次自动检查：{{time}}",
     whenReady: "应用就绪后",
     stagingWarning: "私有临时文件清理失败。请检查应用数据目录权限并重启。",
@@ -2187,10 +2186,6 @@ export const zhCN = {
     confirmImport: "确认导入",
   },
   shortcuts: {
-    globalSectionTitle: "全局快捷键",
-    globalSectionTip: "在其他应用中也可使用，仅保存在当前设备",
-    appSectionTitle: "快捷键",
-    appSectionTip: "仅在窗口处于焦点时生效",
     global: {
       label: "显示或隐藏桌面窗口",
       description: "在其他应用中也可使用。此快捷键只保存在当前设备。",
